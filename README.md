@@ -6,7 +6,7 @@ A little utils library.
 
 - Typescript
 
-Link to [makinox-utils!](https://makinox-utils.jesusbossa.dev/)
+Link to [makinox-utils!](https://www.npmjs.com/package/@makinox/makinox-utils)
 
 <!-- ![Image of makinox-utils](./preview.png) -->
 

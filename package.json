@@ -1,6 +1,6 @@
 {
   "name": "@makinox/makinox-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./dist/index.js",
   "module": "./dist/index.es.js",
   "author": "Jesus Bossa <x@jesusbossa.dev> (https://jesusbossa.dev/)",
@@ -8,7 +8,7 @@
     "dist/"
   ],
   "registry": "https://npm.pkg.github.com",
-  "repository": "git://github.com/makinox/makinox-ui",
+  "repository": "https://github.com/makinox/makinox-utils/",
   "scripts": {
     "start": "react-scripts start",
     "clean": "node ./src/cleaner",
