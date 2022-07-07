@@ -1,8 +1,9 @@
 {
   "name": "@makinox/makinox-utils",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "main": "./dist/index.js",
   "module": "./dist/index.es.js",
+  "types": "./dist/index.d.ts",
   "author": "Jesus Bossa <x@jesusbossa.dev> (https://jesusbossa.dev/)",
   "files": [
     "dist/"
