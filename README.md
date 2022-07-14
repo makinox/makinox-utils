@@ -8,7 +8,7 @@ A little utils library.
 
 Link to [makinox-utils!](https://www.npmjs.com/package/@makinox/makinox-utils)
 
-<!-- ![Image of makinox-utils](./preview.png) -->
+![Image of makinox-utils](./preview.png)
 
 ## Available Scripts
 
